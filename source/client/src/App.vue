@@ -1,5 +1,14 @@
 <template>
   <section>
+    <div class="open">
+      <div class="layer">
+        <div class="full-logo">
+          <img src="logo.png" class="img-logo" width="40%" />
+          <span class="logo-text">O2 BIONICS</span>
+        </div>
+      </div>
+      <div class="layer"></div>
+    </div>
     <div class="header">
       <div class="logo">
         <img src="logo.png" class="img-logo" width="7%" />
@@ -28,7 +37,6 @@
       </ul>
     </div>
     <router-view></router-view>
-
 
     <div class="copyright">
       2020

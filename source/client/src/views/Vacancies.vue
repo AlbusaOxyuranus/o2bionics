@@ -2,6 +2,11 @@
   <div>
     <p>На данный момент свободные вакансии отстуствуют</p>
     <social-network />
+        <div class="element1"></div>
+    <div class="element2"></div>
+    <div class="element3"></div>
+    <div class="element4"></div>
+    <div class="element5"></div>
   </div>
 </template>
 
