@@ -18,7 +18,10 @@
       </thead>
       <tbody id="data-cert">
         <tr>
-          <td>www.hypnosdoma.com</td>
+          <td>
+              
+              
+          </td>
           <td>Услуги размещения</td>
           <td>1 месяц</td>
           <td>12</td>
